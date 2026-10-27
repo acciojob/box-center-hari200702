@@ -6,10 +6,10 @@ body {
 }
 
 .box {
-    width: 350px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
     background-color: lightblue;
-    border: 3px solid black;
+    border: 2px solid black;
 
     position: absolute;
     top: 50%;
